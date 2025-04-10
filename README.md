@@ -135,7 +135,7 @@ Syncinator includes a `RaftTestingInterface` for simulating crashes and partitio
 - `MakeServerUnreachableFrom()`
 - `Restore()`
 
-These let you verify correct RAFT behavior under failure conditions. See tests in [pkg/test/raft_test.go](pkg/test/raft_test.go) and [pkg/test/raft_client_test.go](pkg/test/raft_client_test.go).
+These let you verify correct RAFT behavior under failure conditions. See tests in [test/raft_test.go](test/raft_test.go) and [test/raft_client_test.go](test/raft_client_test.go).
 
 ## References
 
