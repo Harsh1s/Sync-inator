@@ -1,0 +1,6 @@
+playground/
+test[0-9]/
+bin/
+_bin/
+*.exe
+*.db
